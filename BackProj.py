@@ -1,3 +1,8 @@
+    """
+    This function implements filtered back projection 
+    Returns:
+        _type_: _description_
+    """
 import cv2
 import numpy as np
 
